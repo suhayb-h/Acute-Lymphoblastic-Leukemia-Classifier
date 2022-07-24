@@ -6,7 +6,7 @@ This project details the creation of an Image classifier model to differentiate 
 
 Notebook 1 - 1_ALL _EDA
 
-Notebook 2 - 2_Logistic_Regression:CNN
+Notebook 2 - 2_Logistic_Regression_CNN
 
 Notebook 3 - ResNet50V2
 
@@ -18,7 +18,7 @@ Notebook 5: R Logistic Regression -> No data generators in R, researching for al
 
 Notebook 6: Pytorch CNN -> Should provide similar performance as notebook 2. PyTorch is more widely used in academic environments.
 
-Notebook 7: Image Comparison Model -> Theoretically promising
+Notebook 7: Attentive Recurrent Comparitor Model -> Theoretically promising
 
 ## Image directory restructuring: 
 
