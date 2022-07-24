@@ -2,7 +2,7 @@
 
 This project details the creation of an Image classifier model to differentiate ALL lymphoblasts from normal lymphoblasts.
 
-Notebook 1 - ALL _EDA
+\Notebook 1 - ALL _EDA
 Notebook 2 - CNN
 Notebook 3 - ResNet50V2
 
