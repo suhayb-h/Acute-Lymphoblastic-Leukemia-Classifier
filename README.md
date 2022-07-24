@@ -10,7 +10,7 @@ Notebook 2 - CNN
 
 Notebook 3 - ResNet50V2
 
-### Future Notebook Plans:
+##### Future Notebook Plans:
 
 Notebook 4: TensorFlow Decision Forrest -> Experimental model. Issues using the model with data generators
 
@@ -20,7 +20,9 @@ Notebook 6: Pytorch CNN -> Should provide similar performance as notebook 2. PyT
 
 Notebook 7: Image Comparison Model -> Theoretically promising
 
-## Image directory restructuring: This restructuring is necessary for the notebooks to run appropriately.
+## Image directory restructuring: 
+
+This restructuring is necessary for the notebooks to run appropriately.
 
 Original folder structure:
 ￼![image](https://user-images.githubusercontent.com/66500101/180628045-6476cd6b-3dc9-4e68-b585-3407d8865e1c.png)
