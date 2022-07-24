@@ -4,9 +4,9 @@ This project details the creation of an Image classifier model to differentiate 
 
 ## Notebook Index:
 
-Notebook 1 - ALL _EDA
+Notebook 1 - 1_ALL _EDA
 
-Notebook 2 - CNN
+Notebook 2 - 2_Logistic_Regression:CNN
 
 Notebook 3 - ResNet50V2
 
