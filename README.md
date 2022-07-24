@@ -10,7 +10,7 @@ Notebook 2 - CNN
 
 Notebook 3 - ResNet50V2
 
-##### Future Notebook Plans:
+#### Future Notebook Plans:
 
 Notebook 4: TensorFlow Decision Forrest -> Experimental model. Issues using the model with data generators
 
