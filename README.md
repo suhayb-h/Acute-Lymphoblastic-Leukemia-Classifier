@@ -1,6 +1,6 @@
 # Leukemia-Classifier
 
-This project details the creation of an Image classifier model to differentiate ALL lymphoblasts from normal lymphoblasts.
+This project details the creation of an Image classifier model to differentiate ALL lymphoblasts from normal lymphoblasts. This project was accepted to take part in the 2022 American Medical Association Research Competition and Symposium from October 20th till October 22nd.
 
 ## Notebook Index:
 
@@ -12,17 +12,11 @@ Notebook 3 - ResNet50V2
 
 #### Future Notebook Plans:
 
-Notebook 4: TensorFlow Decision Forrest -> Experimental model. Issues using the model with data generators
-
-Notebook 5: R Logistic Regression -> No data generators in R, researching for alternatives
-
-Notebook 6: Pytorch CNN -> Should provide similar performance as notebook 2. PyTorch is more widely used in academic environments.
-
-Notebook 7: Attentive Recurrent Comparitor Model -> Theoretically promising
+Notebook 4: Attentive Recurrent Comparitor Model
 
 ## Image directory restructuring: 
 
-This restructuring is necessary for the notebooks to run appropriately.
+This restructuring is necessary for the notebooks within this project to run appropriately.
 
 Original folder structure:
 ￼![image](https://user-images.githubusercontent.com/66500101/180628045-6476cd6b-3dc9-4e68-b585-3407d8865e1c.png)
