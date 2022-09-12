@@ -16,7 +16,7 @@ Notebook 4: Attentive Recurrent Comparitor Model
 
 ## Image directory restructuring: 
 
-This restructuring is necessary for the notebooks within this project to run appropriately.
+This restructuring is necessary for the notebooks within this project to run appropriately. The testing data folder was deleted and all images were placed in a single folder as opposed to be separated into "folds".
 
 Original folder structure:
 ￼![image](https://user-images.githubusercontent.com/66500101/180628045-6476cd6b-3dc9-4e68-b585-3407d8865e1c.png)
