@@ -4,14 +4,14 @@ This project details the creation of an Image classifier model to differentiate 
 
 ## Notebook Index:
 
-Notebook 1 - 1_ALL_EDA
-<br />This notebook details initial exploratory data analysis of the ISBC 2019 image dataset.
+Notebook 1 - 1_ALL_EDA:
+<br />Initial exploratory data analysis of the ISBC 2019 image dataset.
 
-Notebook 2 - 2_Logistic_Regression_CNN
-<br />This notebook details the initial 2 neural network models. The first is an untrainable simple logistic regression model. The second is a CNN model comprised of three layers.
+Notebook 2 - 2_Logistic_Regression_CNN:
+<br />Initial 2 neural network models. The first is an untrainable simple logistic regression model. The second is a CNN model comprised of three layers.
 
-Notebook 3 - ResNet50V2
-<br />This notebook details the results of a more advanced neural network model.
+Notebook 3 - ResNet50V2:
+<br />Results and analysis of a more advanced neural network model.
 
 #### Future Notebook Plans:
 
