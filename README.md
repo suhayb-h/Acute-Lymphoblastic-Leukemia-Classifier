@@ -8,10 +8,10 @@ Notebook 1 - 1_ALL_EDA
 <br />This notebook details initial exploratory data analysis of the ISBC 2019 image dataset.
 
 Notebook 2 - 2_Logistic_Regression_CNN
-/This notebook details the initial 2 neural network models. The first is an untrainable simple logistic regression model. The second is a CNN model comprised of three layers.
+<br />This notebook details the initial 2 neural network models. The first is an untrainable simple logistic regression model. The second is a CNN model comprised of three layers.
 
 Notebook 3 - ResNet50V2
-/This notebook details the results of a more advanced neural network model.
+<br />This notebook details the results of a more advanced neural network model.
 
 #### Future Notebook Plans:
 
