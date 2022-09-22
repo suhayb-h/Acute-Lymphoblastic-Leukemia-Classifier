@@ -1,6 +1,6 @@
 # Leukemia-Classifier
 
-This project details the creation of an Image classifier model to differentiate ALL lymphoblasts from normal lymphoblasts. This project was accepted to take part in the 2022 American Medical Association Research Competition and Symposium from October 20th till October 22nd.
+This project details the creation of an Image classifier model to differentiate ALL lymphoblasts from normal lymphoblasts. This project originated as a capstone project for the BrainStation bootcamp in Toronto, Ontario. This project was then used as an independant research project for LIFESCI 4A03 at Mcmaster University at Hamilton, Ontario. This project was also accepted to take part in the 2022 American Medical Association Research Competition and Symposium from October 20th till October 22nd.
 
 ## Notebook Index:
 
